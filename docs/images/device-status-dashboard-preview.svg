@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="600" viewBox="0 0 400 600" role="img" aria-labelledby="title desc">
+  <title id="title">M5Stack PaperColor Device Status Dashboard preview</title>
+  <desc id="desc">A 400 by 600 E-Ink dashboard showing system, storage, environment, and power cards.</desc>
+  <rect width="400" height="600" fill="#fff"/>
+  <rect width="400" height="68" fill="#000"/>
+  <g fill="#fff" font-family="Arial, sans-serif"><text x="12" y="35" font-size="25" font-weight="700">Device Status</text><text x="388" y="35" text-anchor="end" font-size="25" font-weight="700">18:41</text><text x="12" y="58" font-size="14" font-weight="700">C151 | SD OK</text></g>
+  <circle cx="382" cy="52" r="5" fill="#00e51a"/>
+  <g font-family="Arial, sans-serif" fill="#000" stroke="#000" stroke-width="1.5">
+    <rect x="6" y="76" width="188" height="190" rx="8" fill="#fff"/><path d="M9 79h182" stroke="#ed5200" stroke-width="6"/>
+    <rect x="206" y="76" width="188" height="190" rx="8" fill="#fff"/><path d="M209 79h182" stroke="#001eff" stroke-width="6"/>
+    <rect x="6" y="274" width="188" height="190" rx="8" fill="#fff"/><path d="M9 277h182" stroke="#f3d400" stroke-width="6"/>
+    <rect x="206" y="274" width="188" height="190" rx="8" fill="#fff"/><path d="M209 277h182" stroke="#00d936" stroke-width="6"/>
+  </g>
+  <g font-family="Arial, sans-serif" fill="#000">
+    <text x="20" y="108" font-size="15" font-weight="700">SYSTEM</text><text x="180" y="108" text-anchor="end" font-size="13" fill="#001eff" font-weight="700">v0.1.0</text><text x="20" y="148" font-size="25" font-weight="700">ESP32-S3R8</text><text x="20" y="188" font-size="17">Firmware status</text><text x="20" y="222" font-size="17">Up 0d 00h 01m</text><text x="20" y="248" font-size="13" font-weight="700" fill="#00c52c">RTC OK</text>
+    <text x="220" y="108" font-size="15" font-weight="700">STORAGE</text><text x="380" y="108" text-anchor="end" font-size="13" fill="#00c52c" font-weight="700">SD OK</text><text x="220" y="160" font-size="42" font-weight="700" fill="#001eff">18%</text><text x="220" y="214" font-size="15">5.8 GB / 31.0 GB</text><text x="220" y="244" font-size="13">Free 25.2 GB</text><rect x="220" y="248" width="160" height="14" rx="3" fill="none" stroke="#000"/><rect x="222" y="250" width="28" height="10" rx="2" fill="#001eff"/>
+    <text x="20" y="306" font-size="15" font-weight="700">ENVIRONMENT</text><text x="180" y="306" text-anchor="end" font-size="13" fill="#00c52c" font-weight="700">SHT40</text><text x="20" y="355" font-size="32" font-weight="700" fill="#ed5200">25.1 C</text><text x="20" y="400" font-size="30" font-weight="700" fill="#001eff">57.0 % RH</text><text x="20" y="446" font-size="14" fill="#00b729" font-weight="700">Comfortable</text>
+    <text x="220" y="306" font-size="15" font-weight="700">POWER</text><text x="380" y="306" text-anchor="end" font-size="13" fill="#001eff" font-weight="700">USB</text><text x="220" y="360" font-size="42" font-weight="700" fill="#00d936">100%</text><text x="220" y="414" font-size="17">4.25V | USB</text><text x="220" y="444" font-size="13">External power</text><rect x="220" y="448" width="160" height="14" rx="3" fill="none" stroke="#000"/><rect x="222" y="450" width="156" height="10" rx="2" fill="#00d936"/>
+  </g>
+  <line x1="6" y1="464" x2="394" y2="464" stroke="#000" stroke-width="1.5"/>
+  <g font-family="Arial, sans-serif" fill="#000"><text x="12" y="494" font-size="17" font-weight="700">Updated 18:41:12</text><text x="388" y="494" text-anchor="end" font-size="17" fill="#001eff">2026-09-05</text><text x="12" y="524" font-size="13">Last: 18:41:12</text><text x="12" y="553" font-size="17" font-weight="700">A Refresh   B Details   C Off</text></g>
+</svg>

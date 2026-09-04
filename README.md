@@ -6,6 +6,12 @@ A standalone device-status dashboard for the **M5Stack PaperColor**, built with 
 
 ![M5Stack PaperColor hardware overview](docs/images/m5stack-papercolor-overview.png)
 
+## Interface preview
+
+The dashboard overview page shows system, storage, environmental, and power information in four high-contrast cards. The image below is a layout preview generated from the current 400 × 600 firmware design; values are illustrative.
+
+![Device status dashboard interface preview](docs/images/device-status-dashboard-preview.svg)
+
 ## About M5Stack PaperColor
 
 M5Stack PaperColor is a portable full-colour E-Ink device based on Espressif's ESP32-S3R8. Its low-power display and integrated peripherals make it well suited to information dashboards and battery-powered embedded projects.

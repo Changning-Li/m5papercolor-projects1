@@ -6,6 +6,12 @@
 
 ![M5Stack PaperColor 硬件概览](docs/images/m5stack-papercolor-overview.png)
 
+## 界面预览
+
+看板首页以四个高对比度信息卡展示系统、存储、环境和电源状态。下图根据当前 400 × 600 固件布局绘制，数据仅用于界面示意。
+
+![设备状态看板界面预览](docs/images/device-status-dashboard-preview.svg)
+
 ## 关于 M5Stack PaperColor
 
 M5Stack PaperColor 是一款基于乐鑫 ESP32-S3R8 的便携式彩色电子墨水设备。它配备低功耗 4 英寸显示屏及多种板载外设，适合开发信息看板和电池供电的嵌入式项目。
